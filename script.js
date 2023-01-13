@@ -12,7 +12,7 @@ function toggleMode() {
     img.setAttribute("alt", 'Foto preta e branca de Diego usando óculos escuro')
   } else {
     // se tiver sem light mode, manter a imagem normal
-    img.setAttribute('src', './assets/avatar.png')
+    img.setAttribute("src", "./assets/avatar.png")
     img.setAttribute("alt", "Foto colorida de Diego usando óculos escuro")
   }
 
